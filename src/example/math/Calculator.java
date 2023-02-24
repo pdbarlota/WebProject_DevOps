@@ -6,6 +6,7 @@ public class Calculator {
   return a + b;
  }
   
+  //this method is for substraction 
  public double subtract(double a, double b) {
   return a - b;
  }
